@@ -1,0 +1,5 @@
+[package]
+
+name = "libraw"
+version = "0.0.1"
+authors = ["Damien Firmenich <fir.damien@gmail.com>"]
